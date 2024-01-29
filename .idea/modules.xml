@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaKit.iml" filepath="$PROJECT_DIR$/.idea/JavaKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem2/animation_test/animation_test.iml" filepath="$PROJECT_DIR$/sem2/animation_test/animation_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem3/sem3.iml" filepath="$PROJECT_DIR$/sem3/sem3.iml" />
+    </modules>
+  </component>
+</project>
